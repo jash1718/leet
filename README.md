@@ -1,2 +1,2 @@
 # leet
-leetcode problems with outputs
+leetcode problems and outputs
