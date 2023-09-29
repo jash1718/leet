@@ -1,5 +1,5 @@
 /**
- * Duplicate
+ * Remove duplicates from sorted Array..
  */
 public class Duplicate {
     public static void main(String[] args) {
